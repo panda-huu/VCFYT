@@ -1,0 +1,6 @@
+pyrogram
+py-tgcalls==2.2.11
+tgcrypto
+librosa
+sounddevice
+numpy
